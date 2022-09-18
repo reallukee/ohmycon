@@ -24,6 +24,8 @@
 
 ![Banner](./assets/banner.png)
 
+> ⚠️ Riavviare `Explorer.exe`.
+
 
 
 # Installazione
