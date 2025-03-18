@@ -1,5 +1,5 @@
 ' OhMyCon (https://github.com/reallukee/ohmycon)
-' Creato da Realluke (https://github.com/reallukee/)
+' Creato da Luca Pollicino (https://github.com/reallukee)
 
 Option Explicit
 On Error Resume Next
